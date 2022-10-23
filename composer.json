@@ -1,0 +1,9 @@
+{
+    "name": "matthpro/quests",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
